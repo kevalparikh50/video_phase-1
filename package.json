@@ -1,0 +1,27 @@
+{
+  "name": "testrun",
+  "version": "1.0.0",
+  "description": "typing for new",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "run.",
+    "test.",
+    "this.",
+    "is.",
+    "fun"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-sass": "^1.0.0"
+  }
+}
